@@ -1,5 +1,5 @@
 # Qt-API-Framework
-![Logo](.\resources\images\Logo.webp)
+[![Logo](.\resources\images\Logo.webp)](https://github.com/MarkeNoBoluo/Qt-API-Framework/blob/master/resources/images/Logo.webp)
 
 A high-performance HTTP communication API management framework implemented on QNetwork.
 
