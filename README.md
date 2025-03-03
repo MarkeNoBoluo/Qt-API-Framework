@@ -1,5 +1,7 @@
 # Qt-API-Framework
-[![Logo](.\resources\images\Logo.webp)](https://github.com/MarkeNoBoluo/Qt-API-Framework/blob/master/resources/images/Logo.webp)
+<div align="center">
+  <img src="https://github.com/MarkeNoBoluo/Qt-API-Framework/blob/master/resources/images/Logo.webp">
+</div>
 
 A high-performance HTTP communication API management framework implemented on QNetwork.
 
@@ -52,8 +54,9 @@ A high-performance HTTP communication API management framework implemented on QN
 | - 连接池管理           |
 
 ## Project Flow Chart
-
-![Flow Chart](.\resources\images\Flow Chart.png)
+<div align="center">
+  <img src="https://github.com/MarkeNoBoluo/Qt-API-Framework/blob/master/resources/images/Flow%20Chart.png">
+</div>
 
 ## Quick start
 
