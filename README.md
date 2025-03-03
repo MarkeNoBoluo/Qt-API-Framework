@@ -1,5 +1,5 @@
 # Qt-API-Framework
-![](C:\Users\wddkx\Desktop\Blog\博客文章管理\5.项目实战\QtAPI框架\设计图\Icon.webp)
+![Logo](.\resources\images\Logo.webp)
 
 A high-performance HTTP communication API management framework implemented on QNetwork.
 
@@ -53,7 +53,7 @@ A high-performance HTTP communication API management framework implemented on QN
 
 ## Project Flow Chart
 
-![](C:\Users\wddkx\Desktop\Blog\博客文章管理\5.项目实战\QtAPI框架\流程图\Flow Chart.png)
+![Flow Chart](.\resources\images\Flow Chart.png)
 
 ## Quick start
 
