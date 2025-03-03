@@ -1,4 +1,6 @@
 # Qt-API-Framework
+![](C:\Users\wddkx\Desktop\Blog\博客文章管理\5.项目实战\QtAPI框架\设计图\Icon.webp)
+
 A high-performance HTTP communication API management framework implemented on QNetwork.
 
 - Base on QNetwork Module.
@@ -29,18 +31,12 @@ A high-performance HTTP communication API management framework implemented on QN
 |     应用层 (Application)   |
 |-----------------------------------|
 | - 调用ResponseHandle实例完成API响应处理 |
-| - 调用Service实例完成API请求  |
-
-​		 ▲
-​         |
+| - 调用Service实例完成API请求 |
 
 |     服务层 (Service)   |
 |-----------------------------------|
 | - VoteService（具体Api请求） |
 | - VoteResponseHandle（具体Api请求响应处理） |
-
-​		 ▲
-​         |
 
 |    核心层 (Core)       |
 |-----------------------------------|
@@ -48,9 +44,6 @@ A high-performance HTTP communication API management framework implemented on QN
 | - HttpRequestManager（HTTP客户端） |
 | - ApiServiceBase（请求服务基类） |
 | - ApiResponseHandler（响应处理基类） |
-
-​		 ▲
-​         |
 
 |    网络层 (Network)      |
 |-----------------------------------|
